@@ -10,3 +10,6 @@ The notebook uses the supplied training, validation and test files in `data/coli
 
 Dataset reference: Sandhan et al. (2022).
 [A Novel Multi-Task Learning Approach for Context-Sensitive Compound Type Identification in Sanskrit](https://aclanthology.org/2022.coling-1.358/).
+
+# AI Use Disclosure
+
