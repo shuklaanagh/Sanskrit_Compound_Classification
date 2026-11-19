@@ -12,4 +12,4 @@ Dataset reference: Sandhan et al. (2022).
 [A Novel Multi-Task Learning Approach for Context-Sensitive Compound Type Identification in Sanskrit](https://aclanthology.org/2022.coling-1.358/).
 
 # AI Use Disclosure
-
+I used ChatGPT-6.1 for brainstorming, initial implementation including many unfamiliar sklearn-derived features including for TF-IDF, weighing, and training classifiers that I had previously done without sklearn. I also used it for some code revision and debugging, explanations and complicated figure generation and design. I am responsible for editing all code, reviewing, choosing which tests are performed and which figures are produced, modifying graphs, commenting, and thorough understanding. I am responsible for verifying the submitted code, results, sources and conclusions.
